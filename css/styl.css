@@ -1,0 +1,13 @@
+/* Start Global Rules */
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: "Work Sans", sans-serif;
+    background-color: rgba(233, 201, 158, 0.719);
+    color: rgb(250, 245, 239);
+}
+/* End Global Rules */
